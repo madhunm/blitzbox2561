@@ -1,5 +1,7 @@
 # blitzbox2561
-mini-sized ECU for speeduino firmware (
+mini-sized ECU for speeduino firmware
+
+[Link to the original speeduino project](https://www.speeduino.com "speeduino homepage")
 
 
 <p align="center">
