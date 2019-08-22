@@ -18,6 +18,6 @@ USB programming interface with PL2303SA (Tunerstudio)
 
 
 <p align="center">
-  <img src="hardware/top.png" width="350" title="Top Side">
-  <img src="hardware/bottom.png" width="350" alt="accessibility text">
+  <img src="hardware/Rev_0.1.1/top.png" width="350" title="Top Side">
+  <img src="hardware/Rev_0.1.1/bottom.png" width="350" alt="accessibility text">
 </p>
