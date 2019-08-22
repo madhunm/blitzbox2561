@@ -11,7 +11,7 @@ onboard manifold pressure sensor (4250 or 6400)
 1 idle valve out (or different programmable output)<br/>
 1 programmable tacho out (or different programmable output)<br/>
 4 free and non-wired general purpose I/O's (input/output)<br/>
-USB programming interface (Tunerstudio)
+USB programming interface with PL2303SA (Tunerstudio)
 
 
 [Link to the original speeduino project](https://www.speeduino.com "speeduino homepage")
