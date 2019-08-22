@@ -16721,19 +16721,9 @@ Based on the following sources:&lt;p&gt;
 <label x="210.82" y="109.22" size="1.778" layer="95"/>
 </segment>
 <segment>
-<pinref part="IC6" gate="G$1" pin="VBUS"/>
-<wire x1="208.28" y1="38.1" x2="203.2" y2="38.1" width="0.1524" layer="91"/>
-<label x="203.2" y="38.1" size="1.778" layer="95"/>
-</segment>
-<segment>
 <pinref part="IC5" gate="G$1" pin="VCC"/>
 <wire x1="231.14" y1="81.28" x2="226.06" y2="81.28" width="0.1524" layer="91"/>
 <label x="226.06" y="81.28" size="1.778" layer="95"/>
-</segment>
-<segment>
-<pinref part="IC5" gate="G$1" pin="VCC@2"/>
-<wire x1="246.38" y1="81.28" x2="251.46" y2="81.28" width="0.1524" layer="91"/>
-<label x="248.92" y="81.28" size="1.778" layer="95"/>
 </segment>
 </net>
 <net name="+5VU" class="0">
@@ -16861,6 +16851,18 @@ Based on the following sources:&lt;p&gt;
 <segment>
 <pinref part="IC4" gate="G$1" pin="E"/>
 <pinref part="SUPPLY26" gate="G$1" pin="GND1"/>
+</segment>
+</net>
+<net name="VUA" class="0">
+<segment>
+<pinref part="IC5" gate="G$1" pin="VCC@2"/>
+<wire x1="246.38" y1="81.28" x2="251.46" y2="81.28" width="0.1524" layer="91"/>
+<label x="248.92" y="81.28" size="1.778" layer="95"/>
+</segment>
+<segment>
+<pinref part="IC6" gate="G$1" pin="VBUS"/>
+<wire x1="208.28" y1="38.1" x2="203.2" y2="38.1" width="0.1524" layer="91"/>
+<label x="203.2" y="38.1" size="1.778" layer="95"/>
 </segment>
 </net>
 </nets>
