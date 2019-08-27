@@ -1,0 +1,73 @@
+Partlist
+
+Exported from blitzbox.brd at 27.08.19 10:24
+
+EAGLE Version 8.2.0 Copyright (c) 1988-2017 Autodesk, Inc.
+
+Assembly variant: 
+
+Part     Value                Package   Library             Position (mil)        Orientation
+
+C1       100n                 C0805     rcl                 (1500 1850)           R270
+C2       100n                 C0805     rcl                 (1143.75 1850)        R270
+C3       100n                 C0805     rcl                 (912.5 1525)          R0
+C4       22u                  C1210     rcl                 (1025 1825)           R270
+C5       1n                   C0805     rcl                 (1168.75 775)         R90
+C6       22u                  C1206     rcl                 (1175 375)            R90
+C7       1n                   C0805     rcl                 (506.25 1150)         R180
+C8       1n                   C0805     rcl                 (550 637.5)           R90
+C9       1n                   C0805     rcl                 (493.75 1562.5)       MR0
+C11      100n                 C0805     rcl                 (1500 1225)           MR180
+C16      220n                 C0805     rcl                 (1081.25 600)         R90
+C20      18p                  C0805     rcl                 (1137.5 975)          R90
+C23      18p                  C0805     rcl                 (1487.5 975)          R90
+C27      TAJD336*035#NJ       SMC_D     rcl                 (862.5 1750)          R90
+C28      1n                   C0805     rcl                 (637.5 612.5)         R270
+C30      1n                   C0805     rcl                 (462.5 637.5)         R90
+C34      100n                 C0805     rcl                 (1050 975)            R90
+C36      1n                   C0805     rcl                 (462.5 800)           R270
+C39      220n                 C0805     rcl                 (950 575)             R180
+C40      220n                 C0805     rcl                 (950 662.5)           R180
+C41      1u                   C0805     rcl                 (950 750)             R180
+C42      1u                   C0805     rcl                 (950 837.5)           R180
+C47      1u                   C0805     rcl                 (1550 1800)           MR0
+C50      1n                   C0805     rcl                 (1812.5 1850)         R180
+D1       MURS120              MURS120   murs120             (550 1587.5)          R0
+D2       SMBJ22A              SMBJ      diode               (662.5 1800)          R90
+D3       DA112S1              SO08      st-microelectronics (1368.75 1600)        MR90
+IC1      ATMEGA2561-16AU      TQFP64    atmel-2005          (1343.75 1418.75)     R0
+IC2      TLE8080              TLE8080   tle8080             (750 1325)            R270
+IC3      MCP14E10             SO-08     mcp14e10            (1287.5 150)          R90
+IC4      FGB3056_F085         TO263     FGB3056_F085        (775 262.5)           R90
+IC5      USB6B1               SO08      st-microelectronics (1662.5 1600)         MR180
+IC6      PL2303SA             SO-08     PL2303SA            (1368.75 1375)        MR90
+IC8      MPXH6400AC6T1        MPXH6400  MPXH6400            (1525 650)            R270
+IC9      MPX4250              MPX4250   mpx4250             (1825 600)            R270
+JP2                           2X04      pinhead             (800 1037.5)          R180
+JP3      USB                  1X04      pinhead             (1850 1512.5)         R90
+JP4                           1X04      pinhead             (1850 737.5)          R270
+L1       L0805C100MDWIT       FB805     dp_devices          (1812.5 1762.5)       R0
+Q1       ABM3-16.000MHZ-D2Y-T ABM3      ABM3                (1313.1282 987.42384) R0
+R1       1k                   R0805     rcl                 (725 1587.5)          R270
+R2       0R(NC)               R0805     rcl                 (837.5 237.5)         R180
+R3       10k                  R0805     rcl                 (462.5 1025)          R270
+R4       27R                  R0805     rcl                 (1662.5 1312.5)       MR0
+R5       1k                   R0805     rcl                 (762.5 837.5)         R180
+R6       10k                  R0805     rcl                 (556.25 1037.5)       MR270
+R7       10k                  R0805     rcl                 (550 1025)            R270
+R8       27R                  R0805     rcl                 (1662.5 1400)         MR180
+R9       1k5*                 R0805     rcl                 (1662.5 1225)         MR180
+R10      220R                 R0805     rcl                 (1043.75 237.5)       R180
+R13      1k                   R0805     rcl                 (762.5 750)           R180
+R18      1k                   R0805     rcl                 (762.5 662.5)         R180
+R23      B72530V1140S262      CT/CN1210 varistor            (500 1787.5)          R270
+R24      220R                 R0805     rcl                 (1043.75 87.5)        R180
+R30      1k                   R0805     rcl                 (762.5 575)           R180
+R32      1k                   R0805     rcl                 (1081.25 775)         R90
+R34      2k49                 R0805     rcl                 (637.5 800)           R270
+R35      2k49                 R0805     rcl                 (550 800)             R270
+R37      39k                  R0805     rcl                 (1250 1850)           R270
+R47      10k                  R0805     rcl                 (1337.5 1850)         R90
+R52      39k                  R0805     rcl                 (1525 118.75)         R180
+R58      39k                  R0805     rcl                 (1525 200)            R180
+X2       5566-18              5566-18   con-molex           (212.5 987.5)         R90
